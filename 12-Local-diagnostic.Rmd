@@ -71,7 +71,7 @@ $$
 i.e., the absolute difference scaled by the observed range of the variable. On the other hand, for a categorical variable, 
 
 $$
-d^k(x_i^k, x_j^k)=1_{x_i^k = x_j^k},
+d^k(x_i^k, x_j^k)=1_{x_i^k \neq x_j^k},
 $$
 
 where $1_A$ is the indicator function for condition $A$. 
